@@ -1,0 +1,33 @@
+.info{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    border : 1px white solid;
+    border-radius: 10px;
+    padding: 30px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    margin: 10px;
+    height: inherit;
+}
+
+.headin {
+    font-size: 20px;
+    color: rgb(30, 202, 245);;
+}
+
+.timeScores {
+    margin-bottom: 18px;
+    font-size:20px;
+}
+
+.best {
+
+}
+.five {
+
+}
+
+.ten{
+
+}

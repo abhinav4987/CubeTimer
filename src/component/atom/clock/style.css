@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.clock-main{
+
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+    font-family: 'Roboto', monospace;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    width: 90vw;
+    height: 230px;
+}
+
+.red {
+    color: red;;
+}
+.clock-time {
+    font-size: 8rem;
+}
+
+@media only screen and (min-width: 1200px) {
+    
+    .clock-main{
+
+        width: 65vw;
+    }
+}
+
+
+@media only screen and (max-width: 750px) {
+
+    .clock-main {
+        width: 90vw;
+    }
+    .clock-time {
+        font-size: 4.6rem;
+    }
+}
