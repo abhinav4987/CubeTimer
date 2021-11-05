@@ -57,5 +57,3 @@ Youtube video for a run through of the project.
 [Cube-Timmer@youtube](https://github.com/matiassingers/awesome-readme)
 
 
-## Tech Stack
-- [React.js](https://reactjs.org/) - HTML enhanced for web apps!
